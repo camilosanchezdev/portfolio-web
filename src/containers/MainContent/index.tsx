@@ -5,7 +5,7 @@ const MainContent = () => {
   return (
     <main className="w-1/2">
       <Navbar />
-      <div className="bg-white min-h-full rounded-2xl">{<Outlet />}</div>
+      <div className="bg-white min-h-full rounded-3xl">{<Outlet />}</div>
     </main>
   )
 }

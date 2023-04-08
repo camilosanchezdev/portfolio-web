@@ -1,5 +1,11 @@
+import Header from "../../components/Header"
+
 const ProjectsPage = () => {
-  return <p>ProjectsPage</p>
+  return (
+    <div className="">
+      <Header title="Projects" />
+    </div>
+  )
 }
 
 export default ProjectsPage

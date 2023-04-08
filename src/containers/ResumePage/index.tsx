@@ -1,5 +1,11 @@
+import Header from "../../components/Header"
+
 const ResumePage = () => {
-  return <p>Resume Page</p>
+  return (
+    <div className="">
+      <Header title="Resume" />
+    </div>
+  )
 }
 
 export default ResumePage

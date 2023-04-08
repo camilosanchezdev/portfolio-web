@@ -1,4 +1,11 @@
+import Header from "../../components/Header"
+
 const HomePage = () => {
-  return <p>Home Page</p>
+  return (
+    <div>
+      <Header title="Camilo Sanchez" subtitle="Full Stack Developer" />
+      HomePage
+    </div>
+  )
 }
 export default HomePage

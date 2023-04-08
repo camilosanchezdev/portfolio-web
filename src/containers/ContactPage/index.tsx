@@ -1,5 +1,11 @@
+import Header from "../../components/Header"
+
 const ContactPage = () => {
-  return <p>ContactPage</p>
+  return (
+    <div className="">
+      <Header title="Contact" />
+    </div>
+  )
 }
 
 export default ContactPage
