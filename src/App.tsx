@@ -1,10 +1,9 @@
-import HomePage from "./containers/HomePage"
+import MainRoutes from "./router/MainRoutes"
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-      <HomePage />
+    <div className="App bg-gray-700 min-h-screen flex justify-center py-8">
+      <MainRoutes />
     </div>
   )
 }
