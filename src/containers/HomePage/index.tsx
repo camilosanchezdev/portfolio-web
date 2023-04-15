@@ -6,10 +6,10 @@ const HomePage = () => {
       <Header title="Camilo Sanchez" subtitle="Full Stack Developer" />
       <section className="flex p-4 h-80 items-center">
         <article className="w-1/2">
-          <h3 className="text-2xl font-semibold">
+          <h3 className="text-2xl font-semibold mb-2">
             About <span className="text-teal-500">Me</span>
           </h3>
-          <p className="text-lg mb-2">
+          <p className="mb-4">
             Hello! I’m Camilo Sanchez. I’m a full stack developer with a deep passion for Web
             Development. I mostly enjoy working with Angular 2, HTML5, CSS3, NodeJS and ASP .NET
             Core.
