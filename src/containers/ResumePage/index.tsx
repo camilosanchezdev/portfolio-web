@@ -1,5 +1,7 @@
 import Card from "../../components/Card"
 import Header from "../../components/Header"
+import educationData from "../../data/education.json"
+import { EducationItemModel } from "../../utils/models/education-item.model"
 
 const ResumePage = () => {
   return (
@@ -8,8 +10,8 @@ const ResumePage = () => {
       <section className="flex p-4 gap-4 items-center">
         <article className="w-1/2">
           <h3 className="text-2xl font-semibold mb-2">Education</h3>
-          {[1, 2, 3].map((item) => (
-            <Card key={item} />
+          {JSON.parse(JSON.stringify(educationData)).map((item: EducationItemModel) => (
+            <Card key={item.id} />
           ))}
           <div className="w-full flex justify-center">
             <button className="border font-semibold p-2 rounded-lg bg-white hover:bg-teal-600 hover:text-white active:bg-teal-700 transition ease-100">

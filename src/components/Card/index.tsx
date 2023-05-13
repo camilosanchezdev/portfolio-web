@@ -1,3 +1,8 @@
+import { EducationItemModel } from "../../utils/models/education-item.model"
+
+interface CardProps {
+  institution: EducationItemModel
+}
 const Card = () => {
   return (
     <div className="border-l-2 border-teal-500 p-4 shadow-md hover:shadow-lg cursor-pointer transition ease-100 my-6 bg-white">
