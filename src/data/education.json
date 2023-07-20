@@ -1,13 +1,16 @@
 [
-
-    {
-        "title": "Bachelor's Degree in Information Technology",
-        "dates": "Jan 2023 - Present",
-        "institution": "Universidad Tecnológica Nacional Argentina"
-    },
-    {
-        "title": "Associate Degree in Computer Programming",
-        "dates": "Jan 2020 - Dec 2021",
-        "institution": "Universidad Tecnológica Nacional Argentina"
-    }
+  {
+    "title": "Bachelor's Degree in Information Technology",
+    "startDate": "Jan 2023",
+    "endDate": "Present",
+    "institution": "Universidad de Palermo",
+    "description": "Conduction, development and implementation of software technologies, hardware, communications, and related services, in all types of businesses and organizations"
+  },
+  {
+    "title": "Associate Degree in Computer Programming",
+    "startDate": "Jan 2020",
+    "endDate": "Dec 2021",
+    "institution": "Universidad Tecnológica de Palermo",
+    "description": "Software development, programming logic, UML diagrams, Agile Methodologies"
+  }
 ]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Software Developer",
+    "startDate": "Jun 2021",
+    "endDate": "Present",
+    "institution": "Siltium",
+    "description": "React, Angular, NestJs, ASP .NET Core, MySQL, PostgreSQL"
+  },
+  {
+    "title": "Full Stack Developer",
+    "startDate": "Jan 2021",
+    "endDate": "Jan 2022",
+    "institution": "Municipalidad de San Miguel de Tucumán",
+    "description": "ASP .NET Core, Entity Framework, PostgreSQL, MySQL, ReactJs, React Native, Angular"
+  },
+  {
+    "title": "Freelance Developer",
+    "startDate": "Jan 2019",
+    "endDate": "Jan 2021",
+    "institution": "Freelance Web Developer",
+    "description": "Angular, React, React Native, Ionic, NodeJs, ASP .Net Core, PHP, Laravel, MySQL"
+  }
+]

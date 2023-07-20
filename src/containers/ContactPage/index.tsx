@@ -21,8 +21,8 @@ const ContactPage = () => {
   return (
     <div className="">
       <Header title="Contact" />
-      <section className="flex p-4 gap-4">
-        <article className="w-1/2">
+      <section className="flex flex-col md:flex-row p-4 gap-4">
+        <article className="w-full md:w-1/2">
           <h3 className="text-2xl font-semibold mb-2 text-gray-600">
             Get in <span className="text-teal-600">Form</span>
           </h3>
@@ -57,7 +57,7 @@ const ContactPage = () => {
             </button>
           </div>
         </article>
-        <article className="w-1/2">
+        <article className="w-full md:w-1/2">
           <h3 className="text-2xl font-semibold mb-2 text-gray-600">
             Contact <span className="text-teal-600">Form</span>
           </h3>
