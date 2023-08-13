@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Survey Generator App",
+    "main_screenshot": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/742ad9177535587.64d7e9efcbfcb.png",
+    "description": "A simple application to generate surveys.",
+    "technologies": [
+      {
+        "id": 1,
+        "name": "ReactJS"
+      },
+      {
+        "id": 2,
+        "name": "Vite"
+      },
+      {
+        "id": 3,
+        "name": "Redux"
+      },
+      {
+        "id": 4,
+        "name": "Styled Components"
+      },
+      {
+        "id": 5,
+        "name": "Prime React"
+      },
+      {
+        "id": 6,
+        "name": "NodeJS"
+      },
+      {
+        "id": 7,
+        "name": "NestJS"
+      },
+      {
+        "id": 8,
+        "name": "Postgres"
+      },
+      {
+        "id": 9,
+        "name": "Prisma"
+      },
+      {
+        "id": 10,
+        "name": "JWT"
+      }
+    ],
+    "repositories": [
+      {
+        "id": 1,
+        "url": "https://github.com/camilosanchezdev/survey-app",
+        "label": "Frontend"
+      },
+      {
+        "id": 2,
+        "url": "https://github.com/camilosanchezdev/survey-api",
+        "label": "Backend"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/742ad9177535587.64d7e9efcbfcb.png"
+      },
+      {
+        "id": 2,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e020ca177535587.64d7e9efcce84.png"
+      },
+      {
+        "id": 3,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/0960fb177535587.64d7e9efce8dd.png"
+      },
+      {
+        "id": 4,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ce0f2e177535587.64d7e9efcb3ce.png"
+      },
+      {
+        "id": 5,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/88d5a4177535587.64d7e9efcf534.png"
+      },
+      {
+        "id": 6,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3c0e4d177535587.64d7e9efca0c8.png"
+      },
+      {
+        "id": 7,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/5f86e2177535587.64d7e9efcda87.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Portfolio",
+    "main_screenshot": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/347313177541039.64d817135c299.png",
+    "description": "Personal Portfolio built with React. SPA with sections: Home, Resume, Projects and Contact",
+    "technologies": [
+      {
+        "id": 1,
+        "name": "ReactJS"
+      },
+      {
+        "id": 2,
+        "name": "Vite"
+      },
+      {
+        "id": 3,
+        "name": "Tailwind"
+      },
+      {
+        "id": 4,
+        "name": "Prime React"
+      }
+    ],
+    "repositories": [
+      {
+        "id": 1,
+        "url": "https://github.com/camilosanchezdev/portfolio-web",
+        "label": "Web"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/347313177541039.64d817135c299.png"
+      },
+      {
+        "id": 2,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/603fc4177541039.64d817135ddc8.png"
+      },
+      {
+        "id": 3,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/934641177541039.64d817135d00a.png"
+      }
+    ]
+  }
+]

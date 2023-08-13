@@ -28,10 +28,11 @@ const Navbar = () => {
           <li className="px-4 font-semibold text-gray-400 hover:text-teal-200">
             <Link to={PUBLIC_ROUTES.RESUME}>Resume</Link>
           </li>
-          {/* TODO: add pages */}
-          {/* <li className="px-4 font-semibold text-gray-400 hover:text-teal-200">
+          <li className="px-4 font-semibold text-gray-400 hover:text-teal-200">
             <Link to={PUBLIC_ROUTES.PROJECTS}>Projects</Link>
           </li>
+          {/* TODO: add pages */}
+          {/* 
           <li className="px-4 font-semibold text-gray-400 hover:text-teal-200">
             <Link to={PUBLIC_ROUTES.CERTIFICATIONS}>Certifications</Link>
           </li> */}
@@ -72,8 +73,7 @@ const Navbar = () => {
                 Resume
               </button>
             </li>
-            {/* TODO: Add pages */}
-            {/* <li className="px-4 font-semibold text-gray-400 hover:text-teal-200">
+            <li className="px-4 font-semibold text-gray-400 hover:text-teal-200">
               <button
                 onClick={() => onNavigateToPage(PUBLIC_ROUTES.PROJECTS)}
                 className="w-full block p-4 text-left"
@@ -81,6 +81,8 @@ const Navbar = () => {
                 Projects
               </button>
             </li>
+            {/* TODO: Add pages */}
+            {/* 
             <li className="px-4 font-semibold text-gray-400 hover:text-teal-200">
               <button
                 onClick={() => onNavigateToPage(PUBLIC_ROUTES.CERTIFICATIONS)}

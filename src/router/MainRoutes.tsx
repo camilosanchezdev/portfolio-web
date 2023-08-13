@@ -26,11 +26,11 @@ const MainRoutes = () => {
           path: PUBLIC_ROUTES.RESUME,
           element: <ResumePage />,
         },
+        {
+          path: PUBLIC_ROUTES.PROJECTS,
+          element: <ProjectsPage />,
+        },
         //  TODO: Add pages
-        // {
-        //   path: PUBLIC_ROUTES.PROJECTS,
-        //   element: <ProjectsPage />,
-        // },
         // {
         //   path: PUBLIC_ROUTES.CERTIFICATIONS,
         //   element: <CertificationsPage />,
