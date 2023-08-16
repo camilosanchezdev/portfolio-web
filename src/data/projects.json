@@ -133,5 +133,58 @@
         "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/934641177541039.64d817135d00a.png"
       }
     ]
+  },
+  {
+    "id": 3,
+    "title": "Multi Steps Sign Up",
+    "main_screenshot": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/151679177751493.64dc1a945fc22.png",
+    "description": "A registration system through steps.",
+    "technologies": [
+      {
+        "id": 1,
+        "name": "ReactJS"
+      },
+      {
+        "id": 2,
+        "name": "Vite"
+      },
+      {
+        "id": 3,
+        "name": "Styled Components"
+      },
+      {
+        "id": 4,
+        "name": "Vitest"
+      }
+    ],
+    "repositories": [
+      {
+        "id": 1,
+        "url": "https://github.com/camilosanchezdev/multi-steps-sign-up",
+        "label": "Web"
+      }
+    ],
+    "screenshots": [
+      {
+        "id": 1,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/151679177751493.64dc1a945fc22.png"
+      },
+      {
+        "id": 2,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/41385c177751493.64dc1a94615cc.png"
+      },
+      {
+        "id": 3,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/eb2a93177751493.64dc1a945e09c.png"
+      },
+      {
+        "id": 4,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/dabfc1177751493.64dc1a9460876.png"
+      },
+      {
+        "id": 5,
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/e37a20177751493.64dc1a945ee5f.png"
+      }
+    ]
   }
 ]
